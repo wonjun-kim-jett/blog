@@ -6,9 +6,10 @@ categories: [Trend, Forecast]
 tags: [AI, Prediction]
 excerpt: "환율 1500원 고착 시나리오! 킹달러 시대, 개인 자산, 소비, 투자에 미칠 파급 효과를 심층 분석하고, 당신의 자산을 지킬 구체적인 생존 전략과 최대 수혜자/피해자를 예측합니다."
 image: /blog/assets/images/thumbnail_052d2b39.jpg
+permalink: /trend/환율-1500원-고착-시나리오/
 ---
 
-![Thumbnail](/blog/assets/images/thumbnail_052d2b39.jpg)
+![환율 1500원 고착 시나리오](/blog/assets/images/thumbnail_052d2b39.jpg)
 
 ## 서론: 예측불가 시대, ‘킹달러’는 고착되는가?
 
