@@ -25,7 +25,7 @@ layout: default
       {%- for post in posts -%}
       <li class="post-card">
         {% if post.image %}
-        <div class="post-card-image" style="background-image: url('{{ post.image | relative_url }}')"></div>
+        <div class="post-card-image" style="background-image: url('{{ post.image }}')"></div>
         {% else %}
         <div class="post-card-image" style="background-color: #e2e8f0;"></div>
         {% endif %}
