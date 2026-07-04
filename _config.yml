@@ -3,6 +3,8 @@ author: Jett
 email: jett@example.com
 description: >-
   경제, IT, 사회의 흐름을 날카롭게 예측하고 분석합니다.
+url: "https://wonjun-kim-jett.github.io"
+baseurl: "/blog"
 theme: minima
 plugins:
   - jekyll-feed
