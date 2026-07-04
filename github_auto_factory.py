@@ -161,6 +161,7 @@ def create_jekyll_post(title, content, meta_description, image_path):
     slug_id = str(uuid.uuid4())[:8]
     filename = f"{date_str}-trend-forecast-{slug_id}.md"
     filepath = os.path.join(POSTS_DIR, filename)
+    image_url_path = f"/blog/assets/images/{os.path.basename(image_path)}"
     
     frontmatter = f"""---
 layout: post
@@ -169,10 +170,10 @@ date: {time_str}
 categories: [Trend, Forecast]
 tags: [AI, Prediction]
 excerpt: "{meta_description.replace('"', '')}"
-image: {image_path}
+image: {image_url_path}
 ---
 
-![Thumbnail]({image_path})
+![Thumbnail]({image_url_path})
 
 {content}
 """
