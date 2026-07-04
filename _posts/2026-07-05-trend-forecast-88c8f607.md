@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jett의 심층 분석: 895조의 그림자, 대통령 90도 인사의 숨겨진 정치경제학적 의미와 미래 파장 예측"
+title: "대통령 90도 인사 논란의 정치경제학적 의미와 895조 그림자의 파장 예측"
 date: 2026-07-05 02:39:09 +0900
 categories: [Trend, Forecast]
 tags: [AI, Prediction]
