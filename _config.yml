@@ -11,3 +11,5 @@ future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+google_site_verification: B8AMBx0ekFSd1Yc3ZdfLqV2-GF8tCBDOsA8Wgh-GyCs
