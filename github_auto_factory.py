@@ -373,6 +373,12 @@ def run_autonomous_factory():
         send_telegram_message(f"❌ <b>팩토리 에러 발생</b>\n파이프라인 실행 중 에러가 발생했습니다: {e}")
 
 def job():
+    import random
+    import time
+    delay_minutes = random.randint(1, 45)
+    print(f"🕵️‍♂️ 봇(Bot) 탐지 회피를 위해 {delay_minutes}분 대기 후 포스팅을 시작합니다...")
+    send_telegram_message(f"🕵️‍♂️ <b>휴먼 행동 모방 시스템 작동</b>\n봇 탐지 회피를 위해 {delay_minutes}분 후 포스팅을 시작합니다.")
+    time.sleep(delay_minutes * 60)
     run_autonomous_factory()
 
 if __name__ == "__main__":
