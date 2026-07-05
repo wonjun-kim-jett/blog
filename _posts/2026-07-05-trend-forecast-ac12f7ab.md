@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jett의 심층 분석: '에어컨 25.6도' 논란, 당신의 여름과 전기요금, 그리고 에너지 미래를 바꿀 거대한 시그널!"
+title: "'에어컨 25.6도' 논란: 당신의 여름과 전기요금, 그리고 에너지 미래를 바꿀 거대한 시그널!"
 date: 2026-07-05 08:02:23 +0900
 categories: [Trend, Forecast]
 tags: [AI, Prediction]
